@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sehajpreet
 
-<!--
-**Sehaj555/Sehaj555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Generative AI & RAG | Python, Java & React
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering undergraduate specializing in AI & ML (9.03 CGPA) at Chitkara University. I enjoy building full-stack web applications, designing RAG pipelines, and developing agentic AI workflows to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Interest
+
+Full-Stack Web Development
+
+Generative AI, LLMs & RAG Applications
+
+Agentic Workflows & LLM Tool Calling
+
+Data Structures, Algorithms & System Design
+
+## 🛠️ Tools & Technologies
+
+**Languages:** Python, Java, JavaScript, SQL
+
+**Web & Backend:** React.js, Vite, Node.js, FastAPI, REST APIs
+
+**Generative AI & ML:** RAG, LangChain, LangGraph, Sentence Transformers, FAISS, Google Gemini API
+
+**Databases & ORM:** PostgreSQL, SQLAlchemy, Relational Databases (DBMS)
+
+**Cloud & Developer Tools:** Microsoft Azure (AZ-900, AI-900, DP-900), Git, GitHub, Postman
+
+## 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/sehajpreet-kaur-600aa63a0/
+* **Email:** sehajofficial555@gmail.com
+
+---
+
+*"💡 Building intelligent full-stack solutions through clean code and generative AI."*
